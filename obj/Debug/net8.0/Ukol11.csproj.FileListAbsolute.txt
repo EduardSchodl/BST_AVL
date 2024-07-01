@@ -1,0 +1,14 @@
+C:\Users\Eduda\Desktop\IDT\Ukol11\bin\Debug\net8.0\Ukol11.exe
+C:\Users\Eduda\Desktop\IDT\Ukol11\bin\Debug\net8.0\Ukol11.deps.json
+C:\Users\Eduda\Desktop\IDT\Ukol11\bin\Debug\net8.0\Ukol11.runtimeconfig.json
+C:\Users\Eduda\Desktop\IDT\Ukol11\bin\Debug\net8.0\Ukol11.dll
+C:\Users\Eduda\Desktop\IDT\Ukol11\bin\Debug\net8.0\Ukol11.pdb
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.AssemblyInfoInputs.cache
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.AssemblyInfo.cs
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.csproj.CoreCompileInputs.cache
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.dll
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\refint\Ukol11.dll
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.pdb
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\Ukol11.genruntimeconfig.cache
+C:\Users\Eduda\Desktop\IDT\Ukol11\obj\Debug\net8.0\ref\Ukol11.dll
